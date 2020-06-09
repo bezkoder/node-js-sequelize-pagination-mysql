@@ -1,0 +1,28 @@
+{
+  "name": "js-express-sequelize-pagination-mysql",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis with Express, Sequelize pagination & MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "sequelize",
+    "pagination",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "bezkoder",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.12"
+  }
+}
